@@ -26,7 +26,7 @@ In This Project, I:
 
 # Architecture
 
-![ChatGPT Image Aug 10, 2026, 11_33_05 PM.png](ChatGPT_Image_Aug_10_2026_11_33_05_PM.png)
+![Architecture.png](https://github.com/user-attachments/assets/5be110f1-2ff1-4fdf-8149-675126858780)
 
 # Implementation Step
 
@@ -74,7 +74,7 @@ docker run -> Creates And Starts A New Container
 mysql -> Uses The MySQL Docker Image
 ```
 
-![image.png](image.png)
+![image.png](https://github.com/user-attachments/assets/e0935a0a-ea21-49d2-9c58-69331875c5b2)
 
 ### Verify Docker Image
 
@@ -84,7 +84,7 @@ Check Whether The MySQL Image Has Been Downloaded Successfully.
 docker images
 ```
 
-![image.png](image%201.png)
+![image.png](https://github.com/user-attachments/assets/6afd072c-f07b-4698-aa07-7c8074daff52)
 
 ### Verify MySQL Container
 
@@ -94,7 +94,7 @@ Check Whether The MySQL Container Is Running.
 docker ps
 ```
 
-![image.png](image%202.png)
+![image.png](https://github.com/user-attachments/assets/91039d54-74fd-4a9e-80ee-419dfd41a7ba)
 
 ## 5. Pull & Run WordPress Container
 
@@ -123,7 +123,7 @@ Check Whether The WordPress Image Has Been Downloaded.
 docker images
 ```
 
-![image.png](image%203.png)
+![image.png](https://github.com/user-attachments/assets/eab81509-92af-4c29-a301-972f00e45e0d)
 
 ### Verify WordPress Container
 
@@ -133,7 +133,7 @@ Check Whether The WordPress Container Is Running.
 docker ps
 ```
 
-![image.png](image%204.png)
+![image.png](https://github.com/user-attachments/assets/d9c9021c-35b7-402a-b1ee-94c0c72f8669)
 
 ## 6. Verify WordPress In Browser
 
@@ -155,7 +155,7 @@ After Opening The WordPress URL:
 
 Select Your Preferred Language And Click **Continue**.
 
-![image.png](image%205.png)
+![image.png](https://github.com/user-attachments/assets/3b9cd1e3-76ec-4dd7-baf1-484ed0886640)
 
 ### **Configure WordPress**
 
@@ -168,23 +168,23 @@ Fill In The Required Information:
 
 Then Click **Install WordPress**.
 
-![image.png](image%206.png)
+![image.png](https://github.com/user-attachments/assets/a6055806-525c-4955-bb09-e07478ab6741)
 
 ### Log In
 
 After Installation Is Complete, Click **Log In.** 
 
-![image.png](image%207.png)
+![image.png](https://github.com/user-attachments/assets/f5872510-c5b8-454e-9f1c-2e0b67a7f397)
 
 Enter The WordPress Username And Password.
 
-![image.png](image%208.png)
+![image.png](https://github.com/user-attachments/assets/3f8e13dc-6283-4d67-a178-127c937d100c)
 
 ### **WordPress Dashboard**
 
 After Successful Authentication, The WordPress Dashboard Will Be Displayed.
 
-![image.png](image%209.png)
+![image.png](https://github.com/user-attachments/assets/bffcc711-aecd-4914-81b1-30408273e927)
 
 # Summary
 
